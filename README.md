@@ -9,7 +9,7 @@ You need to have [(mini/ana)conda](https://www.anaconda.com/) installed. The res
 # Created a conda environment. Here we name it pynof.
 conda create -y -n pynof2026 python=3.13
 # Once created the environment we load it and install the required software
-conda activate pynof
+conda activate pynof2026
 
 conda install psi4 -c conda-forge 
 pip install numpy matplotlib scipy jupyter notebook pynof
