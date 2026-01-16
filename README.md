@@ -15,7 +15,7 @@ conda install psi4 -c conda-forge
 pip install numpy matplotlib scipy jupyter notebook pynof
 
 # Clone the repo to get the notebooks and the code that must be modified
-git clone https://github.com/felipelewyee/OptimRotEduc
+git clone https://github.com/KimikaTeorikoa/TC-TCCM2026
 
 
 ## 📝 Usage
@@ -35,4 +35,4 @@ The content is based on and makes use of [PyNOF](https://github.com/felipelewyee
 
 ## About
 
-These module was created by Ph.D. Juan Felipe Huan Lew-Yee, Prof. Xabier Lopez, Prof. Elixabete Rezabal, Prof. Mario Piris, and Prof. Jose M. Mercero for teaching in courses at the Chemistry Faculty of the **Euskal Herriko Unibertsitatea (EHU)** in the Basque Country.
+These module was created by Ph.D. Juan Felipe Huan Lew-Yee, and Prof. Jose M. Mercero for teaching in courses at the Chemistry Faculty of the **Euskal Herriko Unibertsitatea (EHU)** in the Basque Country.
